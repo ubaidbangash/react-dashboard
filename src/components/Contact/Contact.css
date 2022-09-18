@@ -1,0 +1,8 @@
+.Contact,
+.ContactDark {
+  display: flex;
+  justify-content: center;
+}
+.ContactDark {
+  color: rgb(226, 225, 225);
+}

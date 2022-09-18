@@ -1,0 +1,8 @@
+.About,
+.AboutDark {
+  display: flex;
+  justify-content: center;
+}
+.AboutDark {
+  color: rgb(226, 225, 225);
+}

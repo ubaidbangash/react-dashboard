@@ -1,0 +1,43 @@
+.sidenav {
+  width: 215px;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background: #ddd;
+  overflow-x: hidden;
+  position: fixed;
+  height: calc(100vh - 5rem);
+  margin-top: 5rem;
+}
+.sidenavDark {
+  width: 215px;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background: #333;
+  overflow-x: hidden;
+  position: fixed;
+  height: calc(100vh - 5rem);
+  margin-top: 5rem;
+}
+
+.sidenav a {
+  padding: 0px 8px 19px 21px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #000000;
+  display: block;
+}
+.sidenav a:hover {
+  color: #2196f3;
+}
+.sidenavDark a {
+  padding: 0px 8px 19px 21px;
+  text-decoration: none;
+  font-size: 20px;
+  color: rgb(226, 225, 225);
+  display: block;
+}
+.sidenavDark a:hover {
+  color: #2196f3;
+}

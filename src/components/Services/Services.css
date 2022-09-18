@@ -1,0 +1,8 @@
+.services,
+.servicesDark {
+  display: flex;
+  justify-content: center;
+}
+.servicesDark {
+  color: rgb(226, 225, 225);
+}

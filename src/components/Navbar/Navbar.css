@@ -1,0 +1,39 @@
+.Navbar,
+.NavbarDark {
+  width: 100%;
+  height: 5rem;
+  background: #ddd;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.NavbarDark {
+  background-color: #333;
+}
+.Icon {
+  margin-left: 1rem;
+}
+
+.IconDark {
+  filter: invert(0.7);
+  margin-left: 1rem;
+}
+
+.btnDark,
+.btnLight {
+  border: none;
+  outline: none;
+  border-radius: 2px;
+  width: 2rem;
+  height: 2rem;
+  margin-right: 0.5rem;
+}
+
+.btnLight {
+  color: rgb(0, 0, 0);
+  background: transparent;
+}
+.btnDark {
+  color: rgb(255, 255, 255);
+  background: transparent;
+}

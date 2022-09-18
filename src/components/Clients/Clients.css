@@ -1,0 +1,8 @@
+.Clients,
+.ClientsDark {
+  display: flex;
+  justify-content: center;
+}
+.ClientsDark {
+  color: rgb(226, 225, 225);
+}
